@@ -1,0 +1,46 @@
+<div class="codes">
+    <div id="append" style="display: none;">
+        <img id="imgAppend" src="https://static.122.gov.cn/V1.27.4/static/images/loading.gif">
+        <div class="appendClass">随机号牌中，请稍等...</div>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A97167</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A81315</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A07887</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A51279</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A36076</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A50170</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A79505</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A07138</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A78566</span>
+    </div>
+    <div class="code" style="display: block;">
+        <span>浙 </span>
+        <span class="num">A09706</span>
+    </div>
+</div>
