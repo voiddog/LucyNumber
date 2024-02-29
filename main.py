@@ -9,8 +9,7 @@ def calculate_xj(number: str):
         if ch >= '0' and ch <= '9':
             number_str += ch
     value = int(number_str)
-    value = value / 80 - int(value / 80)
-    value = int(value * 80)
+    value = value % 80
     if value in j:
         print("{} 为 吉".format(number))
     elif value in p:
